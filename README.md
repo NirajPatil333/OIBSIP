@@ -18,7 +18,8 @@ A Python command-line application that:
   - Obese
 - Handles invalid input
 
-Folder: BMI_Calculator/
+Folder: [BMI_Calculator](BMI_Calculator)
+
 
 ---
 
@@ -29,7 +30,8 @@ A Python program that:
 - Uses letters, numbers, and special characters
 - Helps in creating strong passwords
 
-Folder: Password_Generator/
+Folder: [Password_Generator](Password_Generator)
+
 
 ---
 
@@ -40,7 +42,8 @@ A Python game where:
 - The program gives hints (Too high / Too low)
 - Displays the number of attempts
 
-Folder: Number_Guessing_Game/
+Folder: [Number_Guessing_Game](Number_Guessing_Game)
+
 
 ---
 
