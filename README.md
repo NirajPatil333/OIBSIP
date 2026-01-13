@@ -30,7 +30,7 @@ A Python program that:
 - Uses letters, numbers, and special characters
 - Helps in creating strong passwords
 
-Folder: [Password_Generator](Password_Generator)
+Folder: [Simple_Password_Generator](Simple_Password_Generator)
 
 
 ---
